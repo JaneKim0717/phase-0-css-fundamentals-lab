@@ -3,3 +3,26 @@ body {
   height: 100%;
   margin: 0;
 }
+nav a {
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color: deeppink;
+}
+header {
+  text-align: center;
+}
+figure {
+  text-align: center;  
+}
+figcaption {
+  font-size: small;
+}
+section#featured-property{
+  text-align: center;
+}
+div {
+  float: left;
+  text-align: center;
+  background-color: deeppink;
+  min-width: 25%;
+}
